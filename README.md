@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ang3l0fth3n1ght
 - 👀 I’m interested in 
 - 🌱 I’m currently learning About tecnology and alternatives 
-- 💞️ I’m looking to collaborate on my sanity
+- 💞️ I’m looking to collaborate on my development
 - 📫 How to reach me ...
 - 😄 Pronouns: he/her
-- ⚡ Fun fact: I wuant a Roberto
+- ⚡ Fun fact: I want a Roberto
 
 <!---
 ang3l0fth3n1ght/ang3l0fth3n1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
