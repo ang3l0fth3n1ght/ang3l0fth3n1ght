@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ang3l0fth3n1ght
 - 👀 I’m interested in creative projects and intelectual challengs.
-- 🌱 I’m currently learning About tecnology and alternatives.
+- 🌱 I’m currently learning About tecnology and alternatives, more especificaly, html whit css,  .
 - 💞️ I’m looking to collaborate on interesting ideas.
 - 📫 How to reach me in lmichelcsegunda@gmail.com.
 - 😄 Pronouns: he/him.
